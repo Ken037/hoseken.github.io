@@ -1,0 +1,32 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+.bundle/
+vendor/
+
+# Node
+node_modules/
+dist/
+.npm/
+
+# Python virtualenv
+.venv/
+__pycache__/
+*.py[cod]
+
+# Logs & temp
+*.log
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
